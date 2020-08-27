@@ -1,3 +1,9 @@
+#Forked the code from Nilp0inter purely to look at the code and try to learn something.
+#My fork is not in development and it not an official release
+
+
+
+
 # MiSTer WebMenu
 
 ![Build](https://github.com/nilp0inter/MiSTer_WebMenu/workflows/Build/badge.svg)
